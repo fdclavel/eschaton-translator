@@ -1,0 +1,20 @@
+"/* BASIC ELDRITCH TRANSLATOR */
+
+\n \nEnter a string to translate. 
+\nPlease use lowercase only and keep punctuation to a minimum. 
+\n Any punctuation should be entered separately from words you wish to translate 
+\n(like this: ' hello world ! how are you ? '  ) 
+
+\n\nAny spoken words that have no translation in the codex will be translated with the placeholder 'KHA'. 
+
+\n\nType about() to learn more about this translator. 
+\nType exit() to quit the translator. 
+\n"
+
+"\n This translator is based on an extension of the Eschaton eldritch language created 
+by Thunder Lotus Games for the 'Sundered' video game. It uses the same eldritch alphabet for 
+written language, and a VERY loose method of pronunciation to allow a user to speak the 
+language aloud. Some words follow written translations fairly closely, while many do not. 
+This was done simply for ease of speech and to craft a more holistic and flavorful vocabulary. 
+
+\nHave fun!  - Fred\n "
